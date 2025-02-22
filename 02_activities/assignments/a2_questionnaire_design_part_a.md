@@ -16,28 +16,75 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
 ```
 write your answer here...
-```
+```The study seeks to determine whether and how music preferences change over time and whether different age groups have distinct attitudes toward contemporary popular music. Findings from this research will contribute to the sociological understanding of music consumption and generational differences in cultural preferences.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
-```
+```Target Population: Individuals of various age groups, ideally ranging from teenagers to older adults, who have engaged with popular music at different points in their lives.
+Sampling Frame: University students, alumni, and members of the broader Toronto community who are accessible through university outreach, social media, and community networks.
+Sampling Units: Individual respondents who voluntarily participate in the survey.
+Sampling Strategy: A stratified sampling approach will be used to ensure representation across different age groups. Participants will be recruited through online surveys, university mailing lists, and social media platforms to achieve a diverse demographic range.
 
 Your 5-10 question survey:
 ```
 1. write your question here...
+   What is your age? 
+   A.18-24 
+   B.25-34 
+   C.35-44 
+   D.45-54 
+   E.55+
 2. write your question here...
+   How would you describe your current taste in music? 
+   A.Pop
+   B.Hip-hop/Rap
+   C.R&B/Soul
+   D.Classical
+   E.Jazz
+   F.Blues
+   G.Country
+   H.Newage & Indie Genres
 3. write your question here...
+   How often do you listen to popular music released in the past five years? 
+   A.Daily
+   B.Weekly
+   C.Occasionally
+   D.Rarely
+   E.Never
 4. write your question here...
+   Do you believe your music taste has changed significantly over time? 
+   A.Yes
+   B.No
+   If yes, how? (Open-ended)
 5. write your question here...
+   How do you perceive today’s popular music compared to the music you enjoyed at a younger age? 
+   A.More enjoyable
+   B.Less enjoyable
+   C.About the same 
+   D.No opinion
+
 6. write your question here... (optional)
+   What factors do you think influence changes in music taste over time? 
+    A.Personal growth 
+    B.Cultural shifts 
+    C.Peer influence, 
+    D.Technological changes
+    E.Other
 7. write your question here... (optional)
+   Do you feel a strong connection to the music of your youth? 
+   A.Strongly agree
+   B.Agree
+   C.Neutral
+   D.Disagree
+   E.Strongly disagree
 8. write your question here... (optional)
+   What's your opinion to the current popular music?
 9. write your question here... (optional)
 10. write your question here... (optional)
 ```
